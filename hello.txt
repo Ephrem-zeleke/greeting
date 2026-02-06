@@ -2,4 +2,5 @@
 "hello"
 "hola"
 "good bye"
+"how are you"
 
