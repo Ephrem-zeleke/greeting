@@ -1,8 +1,8 @@
 "bonjour"
 "hello"
 "hola"
-"good bye"
+"goodbye"
 "how are you"
-"gutten tag"
+"guten tag"
 
 
